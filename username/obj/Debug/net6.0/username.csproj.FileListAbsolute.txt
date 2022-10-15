@@ -1,0 +1,16 @@
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.GlobalUsings.g.cs
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.csproj.AssemblyReference.cache
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.AssemblyInfoInputs.cache
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.AssemblyInfo.cs
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.csproj.CoreCompileInputs.cache
+D:\PROFILE\Desktop\C#\username\bin\Debug\net6.0\username.exe
+D:\PROFILE\Desktop\C#\username\bin\Debug\net6.0\username.deps.json
+D:\PROFILE\Desktop\C#\username\bin\Debug\net6.0\username.runtimeconfig.json
+D:\PROFILE\Desktop\C#\username\bin\Debug\net6.0\username.dll
+D:\PROFILE\Desktop\C#\username\bin\Debug\net6.0\ref\username.dll
+D:\PROFILE\Desktop\C#\username\bin\Debug\net6.0\username.pdb
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.dll
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\ref\username.dll
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.pdb
+D:\PROFILE\Desktop\C#\username\obj\Debug\net6.0\username.genruntimeconfig.cache
