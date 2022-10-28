@@ -4,4 +4,5 @@
     {
        Console.WriteLine($"{i} x {j} = {i*j}"); 
     }
+    Console.WriteLine();
 }
